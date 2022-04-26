@@ -15,8 +15,7 @@ body {
 
 .blinking {
     margin: 20% 45% 0;
-    display:inline-block;
-  
+    display: inline-block;
     font-size: 4em;
   
     border-bottom: 40px solid #9ae2ff;
@@ -24,10 +23,20 @@ body {
     animation-duration: 1s;
     animation-iteration-count: 100;
 }
+
 @keyframes blinking {
-  50% {
-    border-color: #ffcd5f;
-  }
+    50% {
+        border-color: #ffcd5f;
+    }
+}
+
+.submitButton {
+    background-color: turquoise;
+    color: teal;
+    padding: 14px 25px;
+    text-align: center;
+    font-size: xx-small;
+    display: inline-block;
 }
 
 .button {
@@ -65,5 +74,24 @@ p {
   background-color: darkgoldenrod;
 }
 
+.wackyFormz {
+    background-image: url("https://img.wallpapersafari.com/desktop/800/450/45/77/0n79wa.jpg")
+}
 
+.fontz {
+    font-weight: bold;
+    font-size: larger;
+    color: aqua;
+}
 
+.fontz1 {
+    font-weight: bold;
+    font-size: larger;
+    color: aqua;
+}
+
+.fontz2 {
+    font-weight: bold;
+    font-size: larger;
+    color: aqua;
+}
