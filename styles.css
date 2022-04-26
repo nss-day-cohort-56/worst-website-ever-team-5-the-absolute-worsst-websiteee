@@ -30,6 +30,11 @@ body {
     }
 }
 
+.buttonWay {
+  border-color:deeppink darkcyan ;
+  font-style: italic;
+  font-size: 30px;
+}
 .submitButton {
     background-color: turquoise;
     color: teal;
