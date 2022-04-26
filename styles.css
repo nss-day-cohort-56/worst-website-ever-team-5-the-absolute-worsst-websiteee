@@ -1,9 +1,7 @@
 header {
-    font-family: OCR A Std, monospace;
-    font-style: italic;
-    text-shadow: 2px 2px hsl(184, 70%, 52%);
-    text-align: center;
-    border: dashed 
+    font-family: 'My Soul', cursive;
+    text-shadow: 4px 8px hsl(81, 100%, 48%);
+    border: dashed;
 }
 
 body {
