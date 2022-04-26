@@ -1,0 +1,21 @@
+.chesirePageBody {
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/952de1ce-27a4-40da-bb31-a0f0dae0f4b4/d6fjyow-b481f807-7793-4dac-bdee-5ca7c01c100f.jpg/v1/fill/w_1024,h_605,q_75,strp/tales_from_the_forest_2__the_light_side__by_nikoxil_d6fjyow-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjA1IiwicGF0aCI6IlwvZlwvOTUyZGUxY2UtMjdhNC00MGRhLWJiMzEtYTBmMGRhZTBmNGI0XC9kNmZqeW93LWI0ODFmODA3LTc3OTMtNGRhYy1iZGVlLTVjYTdjMDFjMTAwZi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.R_mW2xjtaAGrGjufOuZGLOJw8NzWa4g8I6lk8hlBl1I)
+}
+
+.cheshire-header {
+    font-family: cursive;
+    color:fuchsia;
+    font-size: 300%;
+}
+
+.container1 {
+    display: flex;
+    flex-direction: row;
+    size: 50%;
+}
+
+.container2 {
+    display: flex;
+    flex-direction: row;
+    size: 50%;
+}
