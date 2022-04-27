@@ -17,7 +17,6 @@ body {
     margin: 20% 45% 0;
     display: inline-block;
     font-size: 4em;
-  
     border-bottom: 40px solid #9ae2ff;
     animation-name: blinking;
     animation-duration: 1s;
@@ -49,34 +48,35 @@ body {
     text-shadow: 4px 5px blue;
 }
 
-ul{
-  background-color: saddlebrown;
+ul {
+    background-color: saddlebrown;
 }
+
 li {
-  font-family: 'Times New Roman', Times, serif;
-  text-decoration: blink;
-  font-size: larger;
-  display: inline;
-  padding: 8px;
-  background-color: #e6f702;
-  -moz-box-shadow: 5px 5px 5px 5px orange;
-  -webkit-box-shadow: 5px 5px 5px 5px orange;
-  box-shadow: 5px 5px 5px 5px orange;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: blink;
+    font-size: larger;
+    display: inline;
+    padding: 8px;
+    background-color: #e6f702;
+    -moz-box-shadow: 5px 5px 5px 5px orange;
+    -webkit-box-shadow: 5px 5px 5px 5px orange;
+    box-shadow: 5px 5px 5px 5px orange;
 }
 
 h2 {
-  font-size: 48px;
-  font-family: 'Tapestry', cursive;
-  color:rgb(0, 89, 255); 
-  font-weight: bold;
-  background-color: chocolate;
+    font-size: 48px;
+    font-family: 'Tapestry', cursive;
+    color: rgb(0, 89, 255);
+    font-weight: bold;
+    background-color: chocolate;
 }
 
 p {
-  font-size: 34px;
-  font-family: monospace;
-  color:darkorchid;
-  background-color: darkgoldenrod;
+    font-size: 34px;
+    font-family: monospace;
+    color: darkorchid;
+    background-color: darkgoldenrod;
 }
 
 .wackyFormz {
